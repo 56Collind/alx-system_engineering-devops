@@ -1,1 +1,1 @@
-shell permission too good
+shell redirections
