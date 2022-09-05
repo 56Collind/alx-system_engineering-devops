@@ -1,1 +1,1 @@
-shell basics is cool
+shell permission too good
