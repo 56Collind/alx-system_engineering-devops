@@ -1,1 +1,1 @@
-kwaku is all good
+Script command instyructions
